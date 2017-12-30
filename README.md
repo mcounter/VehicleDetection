@@ -2,6 +2,8 @@
 
 Identify vehicles in a video from a front-facing camera on a car and highlight and track it while it visible.
 
+Please find [Advanced Vehicle Detection and Tracking version with using Dark Flow (YOLO v2) here](https://github.com/mcounter/AdvancedVehicleDetection).
+
 ![Vehicle Detection and Tracking](./images/main.jpg)
 
 ---
